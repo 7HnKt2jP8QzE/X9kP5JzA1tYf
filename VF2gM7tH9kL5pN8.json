@@ -150,9 +150,6 @@
     "Tarea24": "Tarea: 23"
   },
   {
-    "Usuario": "2023COSVIC2023"
-  },
-  {
     "Usuario": "GSM",
     "Leccion1": "Si",
     "Leccion2": "Si",
@@ -1499,5 +1496,8 @@
     "Tarea22": "Tarea: 21",
     "Tarea23": "Tarea: 22",
     "Tarea24": "Tarea: 23"
+  },
+  {
+    "Usuario": "2023COSVIC2023"
   }
 ]
